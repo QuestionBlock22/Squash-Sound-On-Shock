@@ -2,7 +2,7 @@
 
 
 
-This is a gecko code that plays the crush sound when the player is shrunk, just like in Mario Kart DS. Also supports the Koopa Zapper.
+This is a gecko code that plays the crush sound when the player is shrunk, just like in Mario Kart DS. It also supports the Koopa Zapper.
 
 
 
