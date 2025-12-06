@@ -1,4 +1,4 @@
-## Play the Crush Sound When Shocked
+## Play the Crush (Unused Thunder Small) Sound When Shocked
 
 
 
