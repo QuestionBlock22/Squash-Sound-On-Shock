@@ -1,4 +1,4 @@
-# Play the Crush Sound When Shocked [QB22]
+# Play the Crush (Unused Thunder Small) Sound When Shocked [QB22]
 
 # Inject @
 # PAL   : 80567f28
@@ -16,8 +16,8 @@ beq playCrushedSound
 cmpwi r22, 0x0011
 bne end                 # Branch if not true, prevents unwanted execution.
 
-# Play the distroted record scratch (crushed) sound.
+# Play the distroted record scratch (thunder small) sound.
 playCrushedSound:
-li r4, 0x1a4            # Sound ID for crush damage.
+li r4, 0x115            # Sound ID for the thunder small sound.
 
 end:
